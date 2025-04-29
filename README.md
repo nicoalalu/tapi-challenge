@@ -9,6 +9,9 @@ La solución fue diseñada utilizando exclusivamente servicios de AWS, combinand
 
 ## Arquitectura de la solución
 
+![image](https://github.com/user-attachments/assets/222dc4d5-f437-40fc-94ee-b539561461df)
+
+
 El almacenamiento de datos en Amazon S3 se estructuró en tres zonas:
 
 - **Raw:** almacenamiento de los archivos en su formato original, sin alteraciones.
